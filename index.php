@@ -4,7 +4,7 @@
   <meta charset="utf-8">
   <title>Info Pelanggan</title>
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <link href="css/bootstrap.min.css" rel="stylesheet">
+  <link href="bootstrap.min.css" rel="stylesheet">
   <style>
     html, body { max-width: 100%; overflow-x: hidden; padding: 20px; }
     .btn-xlarge { padding: 8px 28px; font-size: 22px; border-radius: 8px; }
@@ -60,7 +60,7 @@
 </div>
 
 
-<script src="js/jquery-3.3.1.min.js"></script>
+<script src="jquery-3.3.1.min.js"></script>
 <script>
   let startTime, interval, errorkwh;
 
